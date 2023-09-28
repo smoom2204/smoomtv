@@ -2,13 +2,8 @@
     "wallpaper": "https://picsum.photos/1280/720",
     "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar",
     "lives": [
-        {
-            "name": "本地",
-            "type": 0,
-            "url": "./live.txt"
-        },
     {
-      "name": "瞧我TV",
+      "name": "艾丝沐TV",
       "type": 0,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/live.txt"
           }
