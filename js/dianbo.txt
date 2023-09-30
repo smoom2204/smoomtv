@@ -1,2 +1,4 @@
-#直播转点播
+#点播
+https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18live.txt
+#直播
 https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/live.txt
