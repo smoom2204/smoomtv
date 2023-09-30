@@ -1,6 +1,5 @@
 {
     "wallpaper": "https://picsum.photos/1280/720",
-    "spider": "https://picsum.photos/1280/720;md5;f933417180b9bb73fe48f7bbfa3f2f41",
     "lives": [
     {
       "name": "艾丝沐TV",
