@@ -679,7 +679,20 @@
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"
         },
-        {
+    {
+      "key": "csp_Alist1",
+      "name": "❤网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.txt",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.js;md5;528559dc26fc8138875e8bf32f670cac"
+    },
+
+{
             "key": "drpy_js_爱弹幕",
             "name": "爱弹幕动漫",
             "type": 3,
@@ -1043,15 +1056,6 @@
 		   "name": "皇冠资源",
 		   "type": 1,
 		   "api": "https://hghhh.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "91麻豆",
-		   "name": "91麻豆",
-		   "type": 1,
-		   "api": "https://91md.me/api.php/provide/vod/",
 		   "searchable": 1,
 		   "quickSearch":0,
 		   "filterable":0
