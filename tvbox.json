@@ -680,6 +680,14 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"
         },
     {
+      "key": "直播转点播",
+      "name": "❤电视直播",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.txt"
+    },
+
+    {
       "key": "csp_Alist1",
       "name": "❤网盘",
       "type": 3,
