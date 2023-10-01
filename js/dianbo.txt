@@ -1,8 +1,7 @@
 #点播
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
+#点播
 https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18live.txt
 #点播
 https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt
-#点播
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
-#点播
-https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18lives.txt
+
