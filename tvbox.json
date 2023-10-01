@@ -11,7 +11,7 @@
     "sites": [
         {
             "key": "csp_DoubanForTVBox",
-            "name": "💕艾丝沐®",
+            "name": "💕艾丝沐TV",
             "type": 3,
             "api": "csp_DoubanForTVBox",
             "searchable": 0
@@ -680,26 +680,6 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"
         },
     {
-      "key": "直播转点播",
-      "name": "❤点播",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.txt"
-    },
-
-    {
-      "key": "csp_Alist1",
-      "name": "❤网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.js;md5;528559dc26fc8138875e8bf32f670cac"
-    },
-    {
             "key": "drpy_js_爱弹幕",
             "name": "爱弹幕动漫",
             "type": 3,
@@ -886,6 +866,27 @@
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新片场.js"
         },
+    {
+      "key": "直播转点播",
+      "name": "❤点播",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.txt"
+    },
+
+    {
+      "key": "csp_Alist1",
+      "name": "❤网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.txt",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.js;md5;528559dc26fc8138875e8bf32f670cac"
+    },
+
 {"key":"易看资源","name":"易看伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 		   "key": "bttcj.com",
