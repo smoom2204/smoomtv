@@ -9,27 +9,6 @@
         }
   ],
   "sites": [
-    {
-      "key": "直播转点播",
-      "name": "❤点播",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.txt"
-    },
-
-    {
-      "key": "csp_Alist1",
-      "name": "❤网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.js;md5;528559dc26fc8138875e8bf32f670cac"
-    },
-
 {"key":"易看资源","name":"易看伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 		   "key": "bttcj.com",
@@ -581,7 +560,29 @@
 		     "貧乳小奶",
 		     "探花系列"
 		   ]
-		}
+		},
+	{
+	      "key": "直播转点播",
+	      "name": "❤点播",
+	      "type": 3,
+	      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.js",
+	      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.txt"
+	    },
+	
+	    {
+	      "key": "csp_Alist1",
+	      "name": "❤网盘",
+	      "type": 3,
+	      "api": "csp_AList",
+	      "searchable": 1,
+	      "quickSearch": 0,
+	      "filterable": 0,
+	      "changeable": 0,
+	      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.txt",
+	      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.js;md5;528559dc26fc8138875e8bf32f670cac"
+	    }
+	
+	
 
   ],
   "rules": [
