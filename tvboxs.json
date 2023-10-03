@@ -199,17 +199,7 @@
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/345kp.js"
         },
-        {
-            "key": "smoom69美剧",
-            "name": "69美剧",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/69mj.js"
-        },
-        {
+       {
             "key": "smoom8号影院",
             "name": "8号影院",
             "type": 3,
@@ -220,16 +210,6 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/8hysw.js"
         },
         {
-            "key": "smoomNY影院",
-            "name": "NY影院",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/nycvod.js"
-        },
-        {
             "key": "smoom爱看电影",
             "name": "爱看电影",
             "type": 3,
@@ -238,16 +218,6 @@
 			"quickSearch":1,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ikyy.js"
-        },
-        {
-            "key": "smoom楚门影院",
-            "name": "楚门影院",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/chumenys.js"
         },
         {
             "key": "smoom大米星球",
@@ -281,16 +251,6 @@
             "playerType": "2"
         },
         {
-            "key": "smoom起飞影院",
-            "name": "起飞影院",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/qfitv.js"
-        },
-        {
             "key": "smoom人人影视",
             "name": "人人影视",
             "type": 3,
@@ -301,26 +261,6 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/rttks.js"
         },
         {
-            "key": "smoom首播影院",
-            "name": "首播影院",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/23zhui.js"
-        },
-        {
-            "key": "smoom小白菜儿",
-            "name": "小白菜儿",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/xbcdy.js"
-        },
-        {
             "key": "smoom子子影视",
             "name": "子子影视",
             "type": 3,
@@ -329,16 +269,6 @@
 			"quickSearch":1,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ziziys.js"
-        },
-    {
-            "key": "smoom爱弹幕",
-            "name": "爱弹幕动漫",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/girigirilove.js"
         },
         {
             "key": "smoom兔小贝",
@@ -528,8 +458,6 @@
 		     "动画片"
 		   ]
 		},
-{"key":"csp_appysv2_枇杷影院","name":"枇杷影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.pipamovie.com/api.php/v1.vod"},
-{"key":"1080资源库","name":"1080资源库","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
 {"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -540,7 +468,6 @@
 {"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"雨哥哥影视","name":"雨哥影视","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 		   "key": "红牛资源",
 		   "name": "红牛资源",
@@ -655,16 +582,6 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/sogou.js"
     },
-        {
-            "key": "smooml0l",
-            "name": "l0l影视",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/101.js"
-        },
 		{
 		   "key": "feifei67.com",
 		   "name": "飞飞资源",
@@ -734,15 +651,6 @@
 		   "name": "成人合集",
 		   "type": 0,
 		   "api": "https://www.msnii.com/api/xml.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "kkzy.me",
-		   "name": "KK成人",
-		   "type": 1,
-		   "api": "https://kkzy.me/api.php/provide/vod/",
 		   "searchable": 1,
 		   "quickSearch":0,
 		   "filterable":0
@@ -959,24 +867,6 @@
 		   "name": "哥哥妹妹",
 		   "type": 0,
 		   "api": "http://www.ggmmzy.com:9999/inc/xml",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "KK写真资源",
-		   "name": "KK写真资源",
-		   "type": 1,
-		   "api": "https://kkzy.me/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "博天堂",
-		   "name": "博天堂-伦理",
-		   "type": 0,
-		   "api": "http://bttcj.com/inc/sapi.php",
 		   "searchable": 1,
 		   "quickSearch":0,
 		   "filterable":0
