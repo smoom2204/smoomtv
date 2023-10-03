@@ -7,8 +7,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/t
 #点播4️⃣
 http://adultiptv.net/videos.m3u8
 #点播
-https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/600.txt
-#点播
 https://iptv-org.github.io/iptv/index.nsfw.m3u
 #月光宝盒
 https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt
