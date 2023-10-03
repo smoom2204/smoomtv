@@ -5,6 +5,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18l
 #点播3️⃣
 https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt
 #点播4️⃣
-https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18lives.txt
+http://adultiptv.net/videos.m3u8
 
 
