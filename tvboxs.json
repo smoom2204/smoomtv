@@ -13,479 +13,479 @@
             "key": "smoom网飞.TV",
             "name": "艾丝沐TV",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangfei.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangfei.js"
         },
         {
             "key": "smoom乐猪TV",
             "name": "乐猪TV",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/lezhutv.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/lezhutv.js"
         },
         {
             "key": "smoom花猫TV",
             "name": "花猫TV",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/huamaotv.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/huamaotv.js"
         },
         {
             "key": "smoom影渣渣",
             "name": "影渣渣影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/yingzhazha.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/yingzhazha.js"
         },
         {
             "key": "smoom免费看",
             "name": "免费看影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/mfkys.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/mfkys.js"
         },
         {
             "key": "smoom看韩剧",
             "name": "看韩剧",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/kangii.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/kangii.js"
         },
         {
             "key": "smoom追剧迷",
             "name": "追剧迷",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/zhuijumi.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/zhuijumi.js"
         },
         {
             "key": "smoomLIBVIO",
             "name": "LIBVIO影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/libvio.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/libvio.js"
         },
         {
             "key": "smoomHDmoli",
             "name": "HDmoli影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/hdmoli.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/hdmoli.js"
         },
         {
             "key": "smoomVoflix",
             "name": "Voflix影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/voflix.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/voflix.js"
         },
         {
             "key": "smoom小狗影院",
             "name": "小狗影院",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/pupvod.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/pupvod.js"
         },
         {
             "key": "smoom酷客影院",
             "name": "酷客影院",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/laimi.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/laimi.js"
         },
         {
             "key": "smoom奇优影院",
             "name": "奇优影院",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/1e6e.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/1e6e.js"
         },
         {
             "key": "smoom秋霞影院",
             "name": "秋霞影院",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/7xiady.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/7xiady.js"
         },
         {
             "key": "smoom凌云影视",
             "name": "凌云影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/lyys8.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/lyys8.js"
         },
         {
             "key": "smoom兄弟影视",
             "name": "兄弟影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/brovod.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/brovod.js"
         },
         {
             "key": "smoom007影视",
             "name": "007影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/007ts.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/007ts.js"
         },
         {
             "key": "smoom139影视",
             "name": "139影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/139ys.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/139ys.js"
         },
         {
             "key": "smoom345看片",
             "name": "345看片",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/345kp.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/345kp.js"
         },
         {
             "key": "smoom69美剧",
             "name": "69美剧",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/69mj.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/69mj.js"
         },
         {
             "key": "smoom8号影院",
             "name": "8号影院",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/8hysw.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/8hysw.js"
         },
         {
             "key": "smoomNY影院",
             "name": "NY影院",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/nycvod.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/nycvod.js"
         },
         {
             "key": "smoom爱看电影",
             "name": "爱看电影",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ikyy.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ikyy.js"
         },
         {
             "key": "smoom楚门影院",
             "name": "楚门影院",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/chumenys.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/chumenys.js"
         },
         {
             "key": "smoom大米星球",
             "name": "大米星球",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dmxq.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dmxq.js"
         },
         {
             "key": "smoom大师兄影视",
             "name": "大师兄影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dsxys.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dsxys.js"
         },
         {
             "key": "smoom多瑙影视",
             "name": "多瑙影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/duonaovod.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/duonaovod.js",
             "playerType": "2"
         },
         {
             "key": "smoom起飞影院",
             "name": "起飞影院",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/qfitv.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/qfitv.js"
         },
         {
             "key": "smoom人人影视",
             "name": "人人影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/rttks.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/rttks.js"
         },
         {
             "key": "smoom首播影院",
             "name": "首播影院",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/23zhui.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/23zhui.js"
         },
         {
             "key": "smoom小白菜儿",
             "name": "小白菜儿",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/xbcdy.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/xbcdy.js"
         },
         {
             "key": "smoom子子影视",
             "name": "子子影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ziziys.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ziziys.js"
         },
     {
             "key": "smoom爱弹幕",
             "name": "爱弹幕动漫",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/girigirilove.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/girigirilove.js"
         },
         {
             "key": "smoom兔小贝",
             "name": "兔小贝动漫",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/tuxiaobei.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/tuxiaobei.js"
         },
         {
             "key": "smoomAnFuns",
             "name": "AnFuns动漫",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/anfuns.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/anfuns.js"
         },
         {
             "key": "smoomNT动漫",
             "name": "NT动漫",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ntdm8.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ntdm8.js"
         },
         {
             "key": "smoom动漫岛",
             "name": "动漫岛",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/88dmw.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/88dmw.js"
         },
         {
             "key": "smoom去看吧",
             "name": "K9动漫",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/k9dm.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/k9dm.js"
         },
         {
             "key": "smoom奇米动漫",
             "name": "奇米动漫",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/qimiqimi.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/qimiqimi.js"
         },
            {
             "key": "smoom蜻蜓FM",
             "name": "蜻蜓FM",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/qingting.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/qingting.js",
             "playerType": "2"
         },
         {
             "key": "smoom相声随身听",
             "name": "相声随身听",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/xsmp3.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/xsmp3.js",
             "playerType": "2"
         },
         {
             "key": "smoomi275听书",
             "name": "i275听书",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ting275.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ting275.js",
             "playerType": "2"
         },
         {
             "key": "smoom喜马拉雅",
             "name": "喜马拉雅",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ximalaya.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ximalaya.js",
             "playerType": "2"
         },
         {
             "key": "smoom六月听书",
             "name": "六月听书",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/6yueting.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/6yueting.js",
             "playerType": "2"
         },
         {
             "key": "smoom博看听书",
             "name": "博看听书",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/bookan.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/bookan.js",
             "playerType": "2"
         },
         {
             "key": "smoom听书网",
             "name": "听书网",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/tingbook.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/tingbook.js",
             "playerType": "2"
         },
         {
             "key": "smoom有声小说",
             "name": "有声小说",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":0,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ysxs8.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/ysxs8.js",
             "playerType": "2"
         },
 		{
@@ -624,46 +624,46 @@
       "key": "smoom腾讯视频",
       "name": "腾讯视频",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/txsp.js"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/txsp.js"
     },
     {
       "key": "smoom芒果TV",
       "name": "芒果TV",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/mgtv.js"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/mgtv.js"
     },
     {
       "key": "smoom爱奇艺",
       "name": "爱奇艺",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/iqiyi.js"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/iqiyi.js"
     },
     {
       "key": "smoom优酷",
       "name": "优酷",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/youku.js"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/youku.js"
     },
     {
       "key": "smoom搜狗",
       "name": "搜狗",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/sogou.js"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/sogou.js"
     },
         {
             "key": "smooml0l",
             "name": "l0l影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/101.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/101.js"
         },
 		{
 		   "key": "feifei67.com",
@@ -1230,8 +1230,8 @@
 	      "key": "直播转点播",
 	      "name": "❤点播",
 	      "type": 3,
-	      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.js",
-	      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.txt"
+	      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.js",
+	      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.txt"
 	    },
 	
 	    {
@@ -1243,8 +1243,8 @@
 	      "quickSearch": 0,
 	      "filterable": 0,
 	      "changeable": 0,
-	      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.txt",
-	      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.js;md5;528559dc26fc8138875e8bf32f670cac"
+	      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.txt",
+	      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.js;md5;528559dc26fc8138875e8bf32f670cac"
 	    }
 	
 	
