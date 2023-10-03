@@ -1,0 +1,20 @@
+{
+  "storeHouse"[
+{
+	"sourcevame":"艾丝沐资源库",
+    "sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/tvbox.json"
+ },
+{
+	"sourcevame":"大人资源库",
+    "sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18tvbox.json"
+ },
+{
+	"sourcevame":"正经仓库",
+    "sourceUrl":"clan://localhost/duoduo/1. txt"
+},
+{
+	"sourcevame":"正经仓库",
+    "sourceUrl":"clan://localhost/duoduo/1. txt"
+ }
+]
+}
