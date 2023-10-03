@@ -9,7 +9,6 @@
         }
   ],
   "sites": [
-{"key":"易看资源","name":"易看伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 		   "key": "bttcj.com",
 		   "name": "BT伦理",
@@ -19,6 +18,7 @@
 		   "quickSearch":0,
 		   "filterable":0
 		},
+	{"key":"易看资源","name":"易看伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 		   "key": "cjmygzy.com",
 		   "name": "玖玖成人",
