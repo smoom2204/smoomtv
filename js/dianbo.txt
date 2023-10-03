@@ -17,4 +17,4 @@ https://files.catbox.moe/pffw1w.m3u
 #在线纯链接
 https://files.catbox.moe/gazti4.txt
 #网络好用户
-https://raw.githubusercontent.com/gjwj666/jichang/main/chuanmei.m3u
+https://ghproxy.com/https://raw.githubusercontent.com/gjwj666/jichang/main/chuanmei.m3u
