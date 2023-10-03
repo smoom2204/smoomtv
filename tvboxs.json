@@ -5,13 +5,13 @@
   {
     "name": "艾丝沐TV",
     "type": 0,
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18live.txt"
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/live.txt"
         }
   ],
   "sites": [
     {
       "key": "smoom360影视",
-      "name": "❤360|官源",
+      "name": "360影视",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/360kan.js"
