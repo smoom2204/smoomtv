@@ -8,4 +8,15 @@ https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/t
 http://adultiptv.net/videos.m3u8
 #点播
 https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/600.txt
-
+#点播
+https://iptv-org.github.io/iptv/index.nsfw.m3u
+#月光宝盒
+https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt
+#唐僧影视
+https://gitcode.net/ygbh66/test/-/raw/master/tsys.txt
+#m3u文件版
+https://files.catbox.moe/pffw1w.m3u
+#在线纯链接
+https://files.catbox.moe/gazti4.txt
+#网络好用户
+https://raw.githubusercontent.com/gjwj666/jichang/main/chuanmei.m3u
