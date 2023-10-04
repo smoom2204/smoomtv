@@ -1,5 +1,5 @@
 #点播1️⃣
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
+https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 #点播2️⃣
 https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18live.txt
 #点播3️⃣
@@ -10,8 +10,6 @@ http://adultiptv.net/videos.m3u8
 https://iptv-org.github.io/iptv/index.nsfw.m3u
 #月光宝盒
 https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt
-#唐僧影视
-https://gitcode.net/ygbh66/test/-/raw/master/tsys.txt
 #m3u文件版
 https://files.catbox.moe/pffw1w.m3u
 #在线纯链接
