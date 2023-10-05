@@ -705,7 +705,7 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 乐高大师赛！创意惊人,https://epg.112114.xyz/huya/26355776
 成龍历险记·社会我阿福乌鸦坐飞机,https://epg.112114.xyz/huya/11352946
 
-🍒｜女团太妍,#genre#
+🍒女团太妍,#genre#
 韩国DJ Soda Remix 2021 电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
@@ -902,7 +902,7 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 韩国太妍43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 
 
-🐾🦚世界,#genre#
+🐾国际频道,#genre#
 亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
