@@ -1,5 +1,5 @@
 #大人资源
-https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18live.txt
+https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18/18live.txt
 #live1
 https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18/18live1.txt
 #live2
