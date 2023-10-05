@@ -1,9 +1,11 @@
 #大人资源
 https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18live.txt
-#416视频
+#live1
 https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18/18live1.txt
-#月光宝盒
+#live2
 https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18/18live2.txt
+#live3
+https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/18/18live3.txt
 #点播2️⃣
 https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 #点播3️⃣
