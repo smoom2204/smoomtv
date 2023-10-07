@@ -1,6 +1,7 @@
 {
   "公众号": "艾丝沐",
     "wallpaper": "https://picsum.photos/1280/720",
+    "spider": "./smoom.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94"
   "lives": [
   {
     "name": "艾丝沐TV",
