@@ -1,7 +1,7 @@
 {
   "公众号": "艾丝沐",
     "wallpaper": "https://picsum.photos/1280/720",
-    "spider": "./smoom.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94"
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/smoom.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94"
   "lives": [
   {
     "name": "艾丝沐TV",
