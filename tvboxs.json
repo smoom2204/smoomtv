@@ -42,41 +42,41 @@
             "key": "smoom网飞.TV",
             "name": "网飞",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "./js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangfei.js"
+            "ext": "./js/wangfei.js"
         },
         {
             "key": "smoom乐猪TV",
             "name": "乐猪TV",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "./js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/lezhutv.js"
+            "ext": "./js/lezhutv.js"
         },
         {
             "key": "smoom花猫TV",
             "name": "花猫TV",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "./js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/huamaotv.js"
+            "ext": "./js/huamaotv.js"
         },
         {
             "key": "smoom影渣渣",
             "name": "影渣渣影视",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/XXX.js",
+            "api": "./js/XXX.js",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/yingzhazha.js"
+            "ext": "./js/yingzhazha.js"
         },
         {
             "key": "smoom免费看",
