@@ -2,8 +2,13 @@
     "wallpaper": "https://picsum.photos/1280/720",
     "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar",
     "lives": [
+        {
+            "name": "本地",
+            "type": 0,
+            "url": "./live.txt"
+        },
     {
-      "name": "艾丝沐TV",
+      "name": "瞧我TV",
       "type": 0,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/live.txt"
           }
@@ -11,21 +16,27 @@
     "sites": [
         {
             "key": "csp_DoubanForTVBox",
-            "name": "💕艾丝沐TV",
+            "name": "💕艾丝沐®",
             "type": 3,
             "api": "csp_DoubanForTVBox",
             "searchable": 0
         },
 		{
-		"key": "MV_vod",
-		"name": "歌曲┃MTV",
-		"type": 1,
-		"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0
+				     "key": "MV_vod",
+				     "name": "歌曲┃MTV",
+				     "type": 1,
+				     "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+					 "searchable": 0,
+					 "quickSearch": 0,
+					 "filterable": 0
 		},
-{"key": "drpy_js_360影视","name": "360影视","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"},
+        {
+            "key": "drpy_js_360影视",
+            "name": "360影视",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+        },
         {
             "key": "drpy_js_奇珍异兽",
             "name": "爱奇艺",
@@ -244,26 +255,13 @@
 		     "动画片"
 		   ]
 		},
-{"key":"csp_appysv2_枇杷影院","name":"枇杷影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.pipamovie.com/api.php/v1.vod"},
-{"key":"1080资源库","name":"1080资源库","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
-{"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"韩剧资源","name":"韩剧资源","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"77韩剧","name":"77韩剧","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"无尽资源","name":"无尽资源","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"雨哥哥影视","name":"雨哥影视","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 		   "key": "红牛资源",
 		   "name": "红牛资源",
 		   "type": 1,
 		   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
 		   "searchable": 1,
-		   "quickSearch":1,
+		   "quickSearch":0,
 		   "filterable":0
 		},
 		{
@@ -272,7 +270,7 @@
 		   "type": 1,
 		   "api": "https://www.feisuzy.com/api.php/provide/vod/",
 		   "searchable": 1,
-		   "quickSearch":1,
+		   "quickSearch":0,
 		   "filterable":0
 		},
 		{
@@ -281,7 +279,7 @@
 		   "type": 1,
 		   "api": "https://api.guangsuapi.com/api.php/provide/vod/",
 		   "searchable": 1,
-		   "quickSearch":1,
+		   "quickSearch":0,
 		   "filterable":0
 		},
 		{
@@ -290,7 +288,7 @@
 		   "type": 1,
 		   "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
 		   "searchable": 1,
-		   "quickSearch":1,
+		   "quickSearch":0,
 		   "filterable":0
 		},
 		{
@@ -317,7 +315,7 @@
 		   "type": 1,
 		   "api": "https://api.tiankongapi.com/api.php/provide/vod/",
 		   "searchable": 1,
-		   "quickSearch":1,
+		   "quickSearch":0,
 		   "filterable":0
 		},
 		{
@@ -326,7 +324,7 @@
 		   "type": 1,
 		   "api": "https://api.ukuapi.com/api.php/provide/vod/",
 		   "searchable": 1,
-		   "quickSearch":1,
+		   "quickSearch":0,
 		   "filterable":0
 		},
 		{
@@ -335,16 +333,26 @@
 		   "type": 1,
 		   "api": "http://www.feifei67.com/api.php/provide/vod/",
 		   "searchable": 1,
-		   "quickSearch":1,
+		   "quickSearch":0,
 		   "filterable":0
 		},
+        {
+            "key": "drpy_js_农民",
+            "name": "农民影视",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch":0,
+			"filterable":0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/农民影视.js"
+        },
         {
             "key": "drpy_js_l0l",
             "name": "l0l影视",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/l0l.js"
         },
@@ -354,7 +362,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
         },
@@ -364,7 +372,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/乐猪TV.js"
         },
@@ -374,7 +382,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/花猫TV.js"
         },
@@ -384,7 +392,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影渣渣.js"
         },
@@ -394,7 +402,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"
         },
@@ -414,7 +422,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/追剧迷.js"
         },
@@ -424,7 +432,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/LIBVIO.js"
         },
@@ -434,7 +442,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
         },
@@ -444,7 +452,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
         },
@@ -454,7 +462,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"
         },
@@ -464,7 +472,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷客影院.js"
         },
@@ -474,7 +482,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
         },
@@ -484,7 +492,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
         },
@@ -494,7 +502,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/凌云影视.js"
         },
@@ -504,7 +512,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兄弟影视.js"
         },
@@ -514,7 +522,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/007影视.js"
         },
@@ -524,7 +532,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/139影视.js"
         },
@@ -534,7 +542,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/345看片.js"
         },
@@ -544,7 +552,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/69美剧.js"
         },
@@ -554,7 +562,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/8号影院.js"
         },
@@ -564,7 +572,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"
         },
@@ -574,7 +582,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看影院.js"
         },
@@ -584,7 +592,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"
         },
@@ -594,7 +602,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大米星球.js"
         },
@@ -604,7 +612,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
         },
@@ -614,7 +622,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js",
             "playerType": "2"
@@ -625,7 +633,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/萌蛋蛋[V2].js"
         },
@@ -645,7 +653,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"
         },
@@ -655,7 +663,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/首播影院.js"
         },
@@ -665,7 +673,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小白菜电影.js"
         },
@@ -675,11 +683,11 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable": 1,
-			"quickSearch":1,
+			"quickSearch":0,
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"
         },
-    {
+        {
             "key": "drpy_js_爱弹幕",
             "name": "爱弹幕动漫",
             "type": 3,
@@ -866,28 +874,6 @@
 			"filterable":0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新片场.js"
         },
-    {
-      "key": "直播转点播",
-      "name": "❤点播",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.txt"
-    },
-
-    {
-      "key": "csp_Alist1",
-      "name": "❤网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.js;md5;528559dc26fc8138875e8bf32f670cac"
-    },
-
-{"key":"易看资源","name":"易看伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 		   "key": "bttcj.com",
 		   "name": "BT伦理",
@@ -902,6 +888,15 @@
 		   "name": "玖玖成人",
 		   "type": 0,
 		   "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+		   "searchable": 1,
+		   "quickSearch":0,
+		   "filterable":0
+		},
+		{
+		   "key": "91md.me",
+		   "name": "91·麻豆",
+		   "type": 1,
+		   "api": "http://91md.me/api.php/provide/vod/",
 		   "searchable": 1,
 		   "quickSearch":0,
 		   "filterable":0
@@ -1064,6 +1059,15 @@
 		   "name": "皇冠资源",
 		   "type": 1,
 		   "api": "https://hghhh.com/api.php/provide/vod/",
+		   "searchable": 1,
+		   "quickSearch":0,
+		   "filterable":0
+		},
+		{
+		   "key": "91麻豆",
+		   "name": "91麻豆",
+		   "type": 1,
+		   "api": "https://91md.me/api.php/provide/vod/",
 		   "searchable": 1,
 		   "quickSearch":0,
 		   "filterable":0
