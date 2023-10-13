@@ -6,7 +6,9 @@
   {
     "name": "艾丝沐TV",
     "type": 0,
-    "url": "./live.txt"
+    "url": "./live.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
   ],
   "sites": [
