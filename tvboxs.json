@@ -12,8 +12,8 @@
         }
   ],
   "sites": [
-{"key":"mino4K","name":"艾丝沐影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
-	  {"key":"追忆影视","name":"追忆影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
+      {"key":"mino4K","name":"艾丝沐影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
+      {"key":"追忆影视","name":"追忆影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
 	  {"key":"橘子影视","name":"橘子影视","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE"},
 	  {"key":"喵喵影视","name":"喵喵影视","type":3,"api":"csp_Appto","ext":"u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="},
 	  {"key":"yqikan","name":"一起看","type":3,"api":"csp_YQKAPP","ext":"https://api-aws.ctdy.cc"},
@@ -40,418 +40,76 @@
 	  {"key":"酷奇js","name":"酷奇MV","type":3,"api":"./js/zhibox.js","searchable":1,"quickSearch":0,"filterable":1,"ext":"./js/kuqimv.js"},
 	  {"key":"虎牙直播js","name":"虎牙直播","type":3,"api":"./js/zhibox.js","searchable":1,"quickSearch":0,"filterable":1,"ext":"./js/huyazhibo.js"},
 	  {"key":"XYQBiu_斗鱼","name":"斗鱼直播","type":3,"api":"./js/zhibox.js","searchable":1,"quickSearch":0,"filterable":1,"ext":"./js/douyuzhibo.js"},
+	  {"key": "电视直播","name": "电视直播","type": 3,"api": "./js/dianbo.js","ext": "./js/tvzhibo.txt"},
 	  {"key":"聚短视频js","name":"聚短视频","type":3,"api":"./js/zhibox.js","searchable":1,"quickSearch":0,"filterable":1,"ext":"./js/duanzhibo.js"},
 	  {"key":"4KHDR","name":"世界磁力","type":3,"api":"./js/zhibox.js","searchable":1,"quickSearch":0,"filterable":1,"ext":"./js/4khdr.js"},
-	  {"key": "电视直播","name": "电视直播","type": 3,"api": "./js/dianbo.js","ext": "./js/tvzhibo.txt"},
-	  {
-            "key": "smoom网飞.TV",
-            "name": "网飞",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/wangfei.js"
-        },
-        {
-            "key": "smoom乐猪TV",
-            "name": "乐猪TV",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/lezhutv.js"
-        },
-        {
-            "key": "smoom花猫TV",
-            "name": "花猫TV",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/huamaotv.js"
-        },
-        {
-            "key": "smoom影渣渣",
-            "name": "影渣渣影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/yingzhazha.js"
-        },
-        {
-            "key": "smoom免费看",
-            "name": "免费看影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/mfkys.js"
-        },
-        {
-            "key": "smoom看韩剧",
-            "name": "看韩剧",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/kangii.js"
-        },
-        {
-            "key": "smoom追剧迷",
-            "name": "追剧迷",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/zhuijumi.js"
-        },
-        {
-            "key": "smoomLIBVIO",
-            "name": "LIBVIO影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/libvio.js"
-        },
-        {
-            "key": "smoomHDmoli",
-            "name": "HDmoli影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/hdmoli.js"
-        },
-        {
-            "key": "smoomVoflix",
-            "name": "Voflix影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/voflix.js"
-        },
-        {
-            "key": "smoom小狗影院",
-            "name": "小狗影院",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/pupvod.js"
-        },
-        {
-            "key": "smoom酷客影院",
-            "name": "酷客影院",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/laimi.js"
-        },
-        {
-            "key": "smoom奇优影院",
-            "name": "奇优影院",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/1e6e.js"
-        },
-        {
-            "key": "smoom秋霞影院",
-            "name": "秋霞影院",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/7xiady.js"
-        },
-        {
-            "key": "smoom兄弟影视",
-            "name": "兄弟影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/brovod.js"
-        },
-        {
-            "key": "smoom007影视",
-            "name": "007影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/007ts.js"
-        },
-        {
-            "key": "smoom139影视",
-            "name": "139影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/139ys.js"
-        },
-        {
-            "key": "smoom345看片",
-            "name": "345看片",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/345kp.js"
-        },
-       {
-            "key": "smoom8号影院",
-            "name": "8号影院",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/8hysw.js"
-        },
-        {
-            "key": "smoom爱看电影",
-            "name": "爱看电影",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/ikyy.js"
-        },
-        {
-            "key": "smoom大米星球",
-            "name": "大米星球",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/dmxq.js"
-        },
-        {
-            "key": "smoom大师兄影视",
-            "name": "大师兄影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/dsxys.js"
-        },
-        {
-            "key": "smoom多瑙影视",
-            "name": "多瑙影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/duonaovod.js",
-            "playerType": "2"
-        },
-        {
-            "key": "smoom人人影视",
-            "name": "人人影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/rttks.js"
-        },
-        {
-            "key": "smoom子子影视",
-            "name": "子子影视",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-            "ext": "./js/ziziys.js"
-        },
-        {
-            "key": "smoom兔小贝",
-            "name": "兔小贝动漫",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/tuxiaobei.js"
-        },
-        {
-            "key": "smoomAnFuns",
-            "name": "AnFuns动漫",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/anfuns.js"
-        },
-        {
-            "key": "smoomNT动漫",
-            "name": "NT动漫",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/ntdm8.js"
-        },
-        {
-            "key": "smoom动漫岛",
-            "name": "动漫岛",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/88dmw.js"
-        },
-        {
-            "key": "smoom去看吧",
-            "name": "K9动漫",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/k9dm.js"
-        },
-        {
-            "key": "smoom奇米动漫",
-            "name": "奇米动漫",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/qimiqimi.js"
-        },
-           {
-            "key": "smoom蜻蜓FM",
-            "name": "蜻蜓FM",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/qingting.js",
-            "playerType": "2"
-        },
-        {
-            "key": "smoom相声随身听",
-            "name": "相声随身听",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/xsmp3.js",
-            "playerType": "2"
-        },
-        {
-            "key": "smoomi275听书",
-            "name": "i275听书",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/ting275.js",
-            "playerType": "2"
-        },
-        {
-            "key": "smoom喜马拉雅",
-            "name": "喜马拉雅",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/ximalaya.js",
-            "playerType": "2"
-        },
-        {
-            "key": "smoom六月听书",
-            "name": "六月听书",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/6yueting.js",
-            "playerType": "2"
-        },
-        {
-            "key": "smoom博看听书",
-            "name": "博看听书",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/bookan.js",
-            "playerType": "2"
-        },
-        {
-            "key": "smoom听书网",
-            "name": "听书网",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/tingbook.js",
-            "playerType": "2"
-        },
-        {
-            "key": "smoom有声小说",
-            "name": "有声小说",
-            "type": 3,
-            "api": "./js/XXX.js",
-			"searchable": 1,
-			"quickSearch":0,
-			"filterable":0,
-            "ext": "./js/ysxs8.js",
-            "playerType": "2"
-        },
-		{
-		   "key": "暴风资源",
-		   "name": "暴风影视",
-		   "type": 1,
-		   "palytype": 1,
-		   "api": "http://bfzy.tv/api.php/provide/vod/",
-		   "playUrl": "",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0,
+	  {"key": "smoom网飞.TV","name": "网飞","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/wangfei.js"},
+      {"key": "smoom乐猪TV","name": "乐猪TV","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/lezhutv.js"},
+      {"key": "smoom花猫TV","name": "花猫TV","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/huamaotv.js"},
+      {"key": "smoom影渣渣","name": "影渣渣影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/yingzhazha.js"},
+      {"key": "smoom免费看","name": "免费看影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/mfkys.js"},
+      {"key": "smoom看韩剧","name": "看韩剧","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/kangii.js"},
+      {"key": "smoom追剧迷","name": "追剧迷","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/zhuijumi.js"},
+      {"key": "smoomLIBVIO","name": "LIBVIO影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/libvio.js"},
+      {"key": "smoomHDmoli","name": "HDmoli影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/hdmoli.js"},
+      {"key": "smoomVoflix","name": "Voflix影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/voflix.js"},
+      {"key": "smoom小狗影院","name": "小狗影院","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/pupvod.js"},
+      {"key": "smoom酷客影院","name": "酷客影院","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/laimi.js"},
+      {"key": "smoom奇优影院","name": "奇优影院","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/1e6e.js"},
+      {"key": "smoom秋霞影院","name": "秋霞影院","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/7xiady.js"},
+      {"key": "smoom兄弟影视","name": "兄弟影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/brovod.js"},
+      {"key": "smoom007影视","name": "007影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/007ts.js"},
+      {"key": "smoom139影视","name": "139影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/139ys.js"},
+      {"key": "smoom345看片","name": "345看片","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/345kp.js"},
+      {"key": "smoom8号影院","name": "8号影院","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/8hysw.js"},
+      {"key": "smoom爱看电影","name": "爱看电影","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/ikyy.js"},
+      {"key": "smoom大米星球","name": "大米星球","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/dmxq.js"},
+      {"key": "smoom大师兄影视","name": "大师兄影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/dsxys.js"},
+      {"key": "smoom多瑙影视","name": "多瑙影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/duonaovod.js","playerType": "2"},
+      {"key": "smoom人人影视","name": "人人影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/rttks.js"},
+      {"key": "smoom子子影视","name": "子子影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/ziziys.js"},
+      {"key": "smoom兔小贝","name": "兔小贝动漫","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/tuxiaobei.js"},
+      {"key": "smoomAnFuns","name": "AnFuns动漫","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/anfuns.js"},
+      {"key": "smoomNT动漫","name": "NT动漫","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/ntdm8.js"},
+      {"key": "smoom动漫岛","name": "动漫岛","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/88dmw.js"},
+      {"key": "smoom去看吧","name": "K9动漫","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/k9dm.js"},
+      {"key": "smoom奇米动漫","name": "奇米动漫","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/qimiqimi.js"},
+      {"key": "smoom蜻蜓FM","name": "蜻蜓FM","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/qingting.js","playerType": "2"},
+      {"key": "smoom相声随身听","name": "相声随身听","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/xsmp3.js","playerType": "2"},
+      {"key": "smoomi275听书","name": "i275听书","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/ting275.js","playerType": "2"},
+      {"key": "smoom喜马拉雅","name": "喜马拉雅","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/ximalaya.js","playerType": "2"},
+      {"key": "smoom六月听书","name": "六月听书","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/6yueting.js","playerType": "2"},
+      {"key": "smoom博看听书","name": "博看听书","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/bookan.js","playerType": "2"},
+      {"key": "smoom听书网","name": "听书网","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/tingbook.js","playerType": "2"},
+      {"key": "smoom有声小说","name": "有声小说","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":0,"filterable":0,"ext": "./js/ysxs8.js","playerType": "2"},
+      {"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      {"key":"韩剧资源","name":"韩剧资源","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+      {"key":"77韩剧","name":"77韩剧","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      {"key":"无尽资源","name":"无尽资源","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      {"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      {"key":"雨哥哥影视","name":"雨哥影视","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      {"key": "红牛资源","name": "红牛资源","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/","searchable": 1,"quickSearch":1,"filterable":0},
+      {"key": "飞速资源","name": "飞速资源","type": 1,"api": "https://www.feisuzy.com/api.php/provide/vod/","searchable": 1,"quickSearch":1,"filterable":0},
+      {"key": "光速资源","name": "光速资源","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"quickSearch":1,"filterable":0},
+      {"key": "新浪资源","name": "新浪资源","type": 1,"api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1,"quickSearch":1,"filterable":0},
+      {"key": "八戒资源","name": "八戒资源","type": 1,"api": "http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "百度资源","name": "百度资源","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "天空资源","name": "天空资源","type": 1,"api": "https://api.tiankongapi.com/api.php/provide/vod/","searchable": 1,"quickSearch":1,"filterable":0},
+      {"key": "U酷资源","name": "U酷资源","type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod/","searchable": 1,"quickSearch":1,"filterable":0},
+      {"key": "smoom360影视","name": "360影视","type": 3,"api": "./js/XXX.js","ext": "./js/360kan.js"},
+      {"key": "smoom腾讯视频","name": "腾讯视频","type": 3,"api": "./js/XXX.js","ext": "./js/txsp.js"},
+      {"key": "smoom芒果TV","name": "芒果TV","type": 3,"api": "./js/XXX.js","ext": "./js/mgtv.js"},
+      {"key": "smoom爱奇艺","name": "爱奇艺","type": 3,"api": "./js/XXX.js","ext": "./js/iqiyi.js"},
+      {"key": "smoom优酷","name": "优酷","type": 3,"api": "./js/XXX.js","ext": "./js/youku.js"},
+      {"key": "smoom搜狗","name": "搜狗","type": 3,"api": "./js/XXX.js","ext": "./js/sogou.js"},
+      {"key": "直播转点播","name": "❤点播","type": 3,"api": ".js/dianbo.js","ext": "./js/dianbo.txt"},
+      {"key": "csp_Alist1","name": "❤网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"ext": "./js/wangpan.txt","jar": "./js/wangpan.js;md5;528559dc26fc8138875e8bf32f670cac"},
+      {"key": "feifei67.com","name": "飞飞资源","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable": 1,"quickSearch":1,"filterable":0},
+      {"key": "暴风资源","name": "暴风影视","type": 1,"palytype": 1,"api": "http://bfzy.tv/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch":0,"filterable":0,
 		   "categories": [
 		     "动作片",
 		     "喜剧片",
@@ -479,467 +137,44 @@
 		     "港台综艺",
 		     "日韩综艺",
 		     "欧美综艺",
-		     "动画片"
-		   ]
-		},
-{"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"韩剧资源","name":"韩剧资源","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"77韩剧","name":"77韩剧","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"无尽资源","name":"无尽资源","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"雨哥哥影视","name":"雨哥影视","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1},
-		{
-		   "key": "红牛资源",
-		   "name": "红牛资源",
-		   "type": 1,
-		   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":1,
-		   "filterable":0
-		},
-		{
-		   "key": "飞速资源",
-		   "name": "飞速资源",
-		   "type": 1,
-		   "api": "https://www.feisuzy.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":1,
-		   "filterable":0
-		},
-		{
-		   "key": "光速资源",
-		   "name": "光速资源",
-		   "type": 1,
-		   "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":1,
-		   "filterable":0
-		},
-		{
-		   "key": "新浪资源",
-		   "name": "新浪资源",
-		   "type": 1,
-		   "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":1,
-		   "filterable":0
-		},
-		{
-		   "key": "八戒资源",
-		   "name": "八戒资源",
-		   "type": 1,
-		   "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "百度资源",
-		   "name": "百度资源",
-		   "type": 1,
-		   "api": "https://api.apibdzy.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "天空资源",
-		   "name": "天空资源",
-		   "type": 1,
-		   "api": "https://api.tiankongapi.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":1,
-		   "filterable":0
-		},
-		{
-		   "key": "U酷资源",
-		   "name": "U酷资源",
-		   "type": 1,
-		   "api": "https://api.ukuapi.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":1,
-		   "filterable":0
-		},
-    {
-      "key": "smoom360影视",
-      "name": "360影视",
-      "type": 3,
-      "api": "./js/XXX.js",
-      "ext": "./js/360kan.js"
-    },
-    {
-      "key": "smoom腾讯视频",
-      "name": "腾讯视频",
-      "type": 3,
-      "api": "./js/XXX.js",
-      "ext": "./js/txsp.js"
-    },
-    {
-      "key": "smoom芒果TV",
-      "name": "芒果TV",
-      "type": 3,
-      "api": "./js/XXX.js",
-      "ext": "./js/mgtv.js"
-    },
-    {
-      "key": "smoom爱奇艺",
-      "name": "爱奇艺",
-      "type": 3,
-      "api": "./js/XXX.js",
-      "ext": "./js/iqiyi.js"
-    },
-    {
-      "key": "smoom优酷",
-      "name": "优酷",
-      "type": 3,
-      "api": "./js/XXX.js",
-      "ext": "./js/youku.js"
-    },
-    {
-      "key": "smoom搜狗",
-      "name": "搜狗",
-      "type": 3,
-      "api": "./js/XXX.js",
-      "ext": "./js/sogou.js"
-    },
-		{
-		   "key": "feifei67.com",
-		   "name": "飞飞资源",
-		   "type": 1,
-		   "api": "http://www.feifei67.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":1,
-		   "filterable":0
-		},
-		{
-		   "key": "bttcj.com",
-		   "name": "BT伦理",
-		   "type": 0,
-		   "api": "http://bttcj.com/inc/sapi.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-	{"key":"易看资源","name":"易看伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-		{
-		   "key": "cjmygzy.com",
-		   "name": "玖玖成人",
-		   "type": 0,
-		   "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "dadiapi.com",
-		   "name": "大地成人",
-		   "type": 0,
-		   "api": "http://dadiapi.com/api.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "ggmmzy.com",
-		   "name": "字幕成人",
-		   "type": 0,
-		   "api": "http://www.ggmmzy.com:9999/inc/xml",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "fhapi9.com",
-		   "name": "鲨鱼成人",
-		   "type": 1,
-		   "api": "http://fhapi9.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "api.maozyapi.com",
-		   "name": "色猫成人",
-		   "type": 1,
-		   "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "msnii.com",
-		   "name": "成人合集",
-		   "type": 0,
-		   "api": "https://www.msnii.com/api/xml.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "pgxdy.com",
-		   "name": "唐人福利",
-		   "type": 0,
-		   "api": "https://www.pgxdy.com/api/xml.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "api.sexnguon.com",
-		   "name": "国际成人",
-		   "type": 1,
-		   "api": "https://api.sexnguon.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "kxgav.com",
-		   "name": "白嫖成人",
-		   "type": 0,
-		   "api": "https://www.kxgav.com/api/xml.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "xrbsp.com",
-		   "name": "淫水机成人",
-		   "type": 0,
-		   "api": "https://www.xrbsp.com/api/xml.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "lbapi9.com",
-		   "name": "乐播成人",
-		   "type": 1,
-		   "api": "https://lbapi9.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "hghhh.com",
-		   "name": "黄金成人",
-		   "type": 1,
-		   "api": "https://hghhh.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "sewozyapi.com",
-		   "name": "色窝成人",
-		   "type": 1,
-		   "api": "https://sewozyapi.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "gdlsp.com",
-		   "name": "芭乐操成人",
-		   "type": 0,
-		   "api": "https://www.gdlsp.com/api/xml.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "api.apilyzy.com",
-		   "name": "老鸭成人",
-		   "type": 1,
-		   "api": "https://api.apilyzy.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "乐播资源",
-		   "name": "乐播资源",
-		   "type": 0,
-		   "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "色南国资源",
-		   "name": "色南国资源",
-		   "type": 1,
-		   "api": "https://api.sexnguon.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "皇冠资源",
-		   "name": "皇冠资源",
-		   "type": 1,
-		   "api": "https://hghhh.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "美少女资源",
-		   "name": "美少女资源",
-		   "type": 0,
-		   "api": "https://www.msnii.com/api/xml.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "淫水机资源",
-		   "name": "淫水机资源",
-		   "type": 0,
-		   "api": "https://www.xrbsp.com/api/xml.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "香奶儿资源",
-		   "name": "香奶儿资源",
-		   "type": 0,
-		   "api": "https://www.gdlsp.com/api/xml.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "白嫖资源",
-		   "name": "白嫖资源",
-		   "type": 0,
-		   "api": "https://www.kxgav.com/api/xml.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "大地资源",
-		   "name": "大地资源",
-		   "type": 0,
-		   "api": "https://dadiapi.com/api.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "无码资源",
-		   "name": "无码资源",
-		   "type": 0,
-		   "api": "http://wmcj8.com/inc/sapi.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "黄AV资源",
-		   "name": "黄AV资源",
-		   "type": 0,
-		   "api": "https://www.pgxdy.com/api/xml.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "玖玖资源",
-		   "name": "玖玖资源",
-		   "type": 0,
-		   "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "狼少年",
-		   "name": "狼少年",
-		   "type": 0,
-		   "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "番号资源",
-		   "name": "番号资源",
-		   "type": 1,
-		   "api": "http://fhapi9.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "鲨鱼资源",
-		   "name": "鲨鱼资源",
-		   "type": 1,
-		   "api": "https://shayuapi.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "哥哥妹妹",
-		   "name": "哥哥妹妹",
-		   "type": 0,
-		   "api": "http://www.ggmmzy.com:9999/inc/xml",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "色窝资源",
-		   "name": "色窝资源",
-		   "type": 1,
-		   "api": "https://sewozyapi.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "CK资源",
-		   "name": "CK资源",
-		   "type": 1,
-		   "api": "http://www.feifei67.com/api.php/provide/vod/",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "博天堂",
-		   "name": "博天堂",
-		   "type": 0,
-		   "api": "http://bttcj.com/inc/sapi.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "环亚资源",
-		   "name": "环亚资源",
-		   "type": 0,
-		   "api": "http://wmcj8.com/inc/sapi.php",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0
-		},
-		{
-		   "key": "玉兔专场",
-		   "name": "玉兔采集",
-		   "type": 1,
-		   "api": "https://apiyutu.com/api.php/provide/vod/",
-		   "playUrl": "",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0,
+		     "动画片"]},
+      {"key": "bttcj.com","name": "BT伦理","type": 0,"api": "http://bttcj.com/inc/sapi.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key":"易看资源","name":"易看伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      {"key": "cjmygzy.com","name": "玖玖成人","type": 0,"api": "http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "dadiapi.com","name": "大地成人","type": 0,"api": "http://dadiapi.com/api.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "ggmmzy.com","name": "字幕成人","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "fhapi9.com","name": "鲨鱼成人","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "api.maozyapi.com","name": "色猫成人","type": 1,"api": "https://api.maozyapi.com/inc/apijson_vod.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "msnii.com","name": "成人合集","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "pgxdy.com","name": "唐人福利","type": 0,"api": "https://www.pgxdy.com/api/xml.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "api.sexnguon.com","name": "国际成人","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "kxgav.com","name": "白嫖成人","type": 0,"api": "https://www.kxgav.com/api/xml.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "xrbsp.com","name": "淫水机成人","type": 0,"api": "https://www.xrbsp.com/api/xml.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "lbapi9.com","name": "乐播成人","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "hghhh.com","name": "黄金成人","type": 1,"api": "https://hghhh.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "sewozyapi.com","name": "色窝成人","type": 1,"api": "https://sewozyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "gdlsp.com","name": "芭乐操成人","type": 0,"api": "https://www.gdlsp.com/api/xml.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "api.apilyzy.com","name": "老鸭成人","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "乐播资源","name": "乐播资源","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "色南国资源","name": "色南国资源","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "皇冠资源","name": "皇冠资源","type": 1,"api": "https://hghhh.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "美少女资源","name": "美少女资源","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "淫水机资源","name": "淫水机资源","type": 0,"api": "https://www.xrbsp.com/api/xml.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "香奶儿资源","name": "香奶儿资源","type": 0,"api": "https://www.gdlsp.com/api/xml.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "白嫖资源","name": "白嫖资源","type": 0,"api": "https://www.kxgav.com/api/xml.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "大地资源","name": "大地资源","type": 0,"api": "https://dadiapi.com/api.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "无码资源","name": "无码资源","type": 0,"api": "http://wmcj8.com/inc/sapi.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "黄AV资源","name": "黄AV资源","type": 0,"api": "https://www.pgxdy.com/api/xml.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "玖玖资源","name": "玖玖资源","type": 0,"api": "http://99zywcj.com/inc/sapi.php?ac=videolist","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "狼少年","name": "狼少年","type": 0,"api": "http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "番号资源","name": "番号资源","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "鲨鱼资源","name": "鲨鱼资源","type": 1,"api": "https://shayuapi.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "哥哥妹妹","name": "哥哥妹妹","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "色窝资源","name": "色窝资源","type": 1,"api": "https://sewozyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "CK资源","name": "CK资源","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "博天堂","name": "博天堂","type": 0,"api": "http://bttcj.com/inc/sapi.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "环亚资源","name": "环亚资源","type": 0,"api": "http://wmcj8.com/inc/sapi.php","searchable": 1,"quickSearch":0,"filterable":0},
+      {"key": "玉兔专场","name": "玉兔采集","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch":0,"filterable":0,
 		   "categories": [
 		     "精品推荐",
 		     "国产精品",
@@ -980,18 +215,8 @@
 		     "网曝系列",
 		     "麻豆传媒",
 		     "女同人妖",
-		     "恋腿癖"
-		   ]
-		},
-		{
-		   "key": "大地专场",
-		   "name": "大地采集",
-		   "type": 0,
-		   "api": "https://dadiapi.com/api.php",
-		   "playUrl": "",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0,
+		     "恋腿癖"]},
+      {"key": "大地专场","name": "大地采集","type": 0,"api": "https://dadiapi.com/api.php","playUrl": "","searchable": 1,"quickSearch":0,"filterable":0,
 		   "categories": [
 		     "日韩无码",
 		     "强奸乱伦",
@@ -1013,18 +238,8 @@
 		     "SM重味",
 		     "教师学生",
 		     "大秀视频",
-		     "AV明星1"
-		   ]
-		},
-		{
-		   "key": "乐播",
-		   "name": "乐播采集",
-		   "type": 1,
-		   "api": "https://lbapi9.com/api.php/provide/vod/",
-		   "playUrl": "",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0,
+		     "AV明星1"]},
+      {"key": "乐播","name": "乐播采集","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch":0,"filterable":0,
 		   "categories": [
 		     "亚洲情色",
 		     "国产主播",
@@ -1041,18 +256,8 @@
 		     "视频伦理",
 		     "少女萝莉",
 		     "重口色情",
-		     "人兽性交"
-		   ]
-		},
-		{
-		   "key": "老鸭",
-		   "name": "老鸭采集",
-		   "type": 1,
-		   "api": "https://api.apilyzy.com/api.php/provide/vod/",
-		   "playUrl": "https://jx.bozrc.com:4433/player/?url=",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0,
+		     "人兽性交"]},
+      {"key": "老鸭","name": "老鸭采集","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","playUrl": "https://jx.bozrc.com:4433/player/?url=","searchable": 1,"quickSearch":0,"filterable":0,
 		   "categories": [
 		     "日本有码",
 		     "日本无码",
@@ -1063,18 +268,8 @@
 		     "熟女人妻",
 		     "自拍偷拍",
 		     "海外明星",
-		     "国产传媒"
-		   ]
-		},
-		{
-		   "key": "155专场",
-		   "name": "155采集",
-		   "type": 1,
-		   "api": "https://155api.com/api.php/provide/vod/",
-		   "playUrl": "",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0,
+		     "国产传媒"]},
+      {"key": "155专场","name": "155采集","type": 1,"api": "https://155api.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch":0,"filterable":0,
 		   "categories": [
 		     "无码专区",
 		     "麻豆传媒",
@@ -1099,18 +294,8 @@
 		     "欧美无码",
 		     "女优明星",
 		     "SM调教",
-		     "AV解说"
-		   ]
-		},
-		{
-		   "key": "色猫",
-		   "name": "色猫采集",
-		   "type": 1,
-		   "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
-		   "playUrl": "",
-		   "searchable": 1,
-		   "quickSearch":0,
-		   "filterable":0,
+		     "AV解说"]},
+      {"key": "色猫","name": "色猫采集","type": 1,"api": "https://caiji.semaozy.net/inc/apijson_vod.php/","playUrl": "","searchable": 1,"quickSearch":0,"filterable":0,
 		   "categories": [
 		     "国产自拍",
 		     "日本无码",
@@ -1137,29 +322,7 @@
 		     "丝袜美腿",
 		     "精选独家",
 		     "貧乳小奶",
-		     "探花系列"
-		   ]
-		},
-	{
-	      "key": "直播转点播",
-	      "name": "❤点播",
-	      "type": 3,
-	      "api": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.js",
-	      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/dianbo.txt"
-	    },
-	
-	    {
-	      "key": "csp_Alist1",
-	      "name": "❤网盘",
-	      "type": 3,
-	      "api": "csp_AList",
-	      "searchable": 1,
-	      "quickSearch": 0,
-	      "filterable": 0,
-	      "changeable": 0,
-	      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.txt",
-	      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/smoom2204/smoomtv/main/js/wangpan.js;md5;528559dc26fc8138875e8bf32f670cac"
-	    }
+		     "探花系列"]}
 	
 	
 
@@ -1262,13 +425,11 @@
 
   "parses": [
         {
-            "name": "综合",
-            "type": 0,
+            "name": "综合","type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
-            "name": "解析1",
-            "type": 0,
+            "name": "解析1","type": 0,
             "url": "https://vip.zykbf.com/?url="
         },
         {
