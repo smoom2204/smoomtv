@@ -42,6 +42,7 @@
 	  {"key":"XYQBiu_斗鱼","name":"斗鱼直播","type":3,"api":"./js/zhibox.js","searchable":1,"quickSearch":0,"filterable":1,"ext":"./js/douyuzhibo.js"},
 	  {"key":"聚短视频js","name":"聚短视频","type":3,"api":"./js/zhibox.js","searchable":1,"quickSearch":0,"filterable":1,"ext":"./js/duanzhibo.js"},
 	  {"key":"4KHDR","name":"世界磁力","type":3,"api":"./js/zhibox.js","searchable":1,"quickSearch":0,"filterable":1,"ext":"./js/4khdr.js"},
+	  {"key": "电视直播","name": "电视直播","type": 3,"api": "./js/dianbo.js","ext": "./js/tvzhibo.txt"},
 	  {
             "key": "smoom网飞.TV",
             "name": "网飞",
