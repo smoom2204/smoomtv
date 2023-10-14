@@ -16,7 +16,6 @@
       {"key":"虎牙直播js","name":"虎牙直播","type":3,"api":"./js/zhibox.js","searchable":1,"quickSearch":0,"filterable":1,"ext":"./js/huyazhibo.js"},
       {"key":"XYQBiu_斗鱼","name":"斗鱼直播","type":3,"api":"./js/zhibox.js","searchable":1,"quickSearch":0,"filterable":1,"ext":"./js/douyuzhibo.js"},
       {"key": "电视直播","name": "电视直播","type": 3,"api": "./js/dianbo.js","ext": "./js/tvzhibo.txt"},
-      {"key": "聚合直播","name": "聚合直播","type": 1,"api": "./js/zhibox.js","searchable": 1,"quickSearch":1,"filterable":0,"ext":"./js/juhezhibo.js"},
       {"key":"追忆影视","name":"追忆影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
 	  {"key":"橘子影视","name":"橘子影视","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE"},
 	  {"key":"喵喵影视","name":"喵喵影视","type":3,"api":"csp_Appto","ext":"u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="},
