@@ -12,7 +12,7 @@
         }
   ],
   "sites": [
-      {"key": "smoom豆瓣","name": "艾丝沐","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/douban.js"},
+      {"key": "smoom豆瓣","name": "艾丝沐影视","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/douban.js"},
       {"key":"虎牙直播js","name":"虎牙直播","type":3,"api":"./js/zhibox.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/huyazhibo.js"},
       {"key":"XYQBiu_斗鱼","name":"斗鱼直播","type":3,"api":"./js/zhibox.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/douyuzhibo.js"},
       {"key": "电视直播","name": "电视直播","type": 3,"api": "./js/dianbo.js","ext": "./js/tvzhibo.txt"},
