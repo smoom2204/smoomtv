@@ -1,0 +1,64 @@
+[
+   {
+      "name": "Ñ¾ÏÉÅ®",
+      "server": "http://alist.xiaoya.pro/",
+      "startPage": "/",
+      "showAll": false,
+      "search": true,
+      "headers": {
+         "Authorization": ""
+      },
+      "params": {
+         "/abc": {
+            "password": "123"
+         },
+         "/abc/abc": {
+            "password": "123"
+         }
+      }
+   },
+   {
+      "name": "Ò»Ö»Óã",
+      "server": "https://alist.youte.ml"
+   },
+   {
+      "name": "ÆßÃ×À¶",
+      "server": "https://al.chirmyram.com"
+   },
+   {
+      "name": "Éñ×å¾ÅµÛ",
+      "server": "https://alist.shenzjd.com"
+   },
+   {
+      "name": "¼§Â·°×Ñ©",
+      "server": "https://pan.jlbx.xyz"
+   },
+   {
+      "name": "ÐÇÃÎ",
+      "server": "https://pan.bashroot.top"
+   },
+   {
+      "name": "repl",
+      "server": "https://ali.liucn.repl.co"
+   },
+   {
+      "name": "Ñ¶Î¬ÔÆÅÌ",
+      "server": "https://pan.xwbeta.com"
+   },
+   {
+         "name": "ÍøÅÌ1",
+         "server": "http://alist.xiaoya.pro"
+   },
+   {
+         "name": "ÍøÅÌ2",
+         "server": "https://abnormalize.icu"
+   },
+   {
+         "name": "ÍøÅÌ3",
+         "server": "https://lala-ofbip.run.goorm.site/"
+   },
+   {
+         "name": "ÍøÅÌ4",
+         "server": "https://pan.bashroot.top"
+   }
+]
