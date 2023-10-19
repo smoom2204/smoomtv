@@ -12,7 +12,7 @@
         }
   ],
   "sites": [
-      {"key": "smoom_豆瓣","name": "🔥 接口免费获取公众号：艾丝沐 🔥","type": 3,"api": "./js/XXX.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/douban.js"},
+      {"key": "smoom_豆瓣","name": "🔥 公众号【艾丝沐】 🔥","type": 3,"api": "./js/zhibox.js","searchable": 1,"quickSearch":1,"filterable":0,"ext": "./js/douban.js"},
       {"key": "smoom_虎牙直播","name":"📺虎牙直播","type":3,"api":"./js/zhibox.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/huyazhibo.js"},
       {"key": "smoom_斗鱼","name":"📺斗鱼直播","type":3,"api":"./js/zhibox.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/douyuzhibo.js"},
       {"key": "smoom_电视直播","name": "📺电视直播","type": 3,"api": "./js/dianbo.js","ext": "./js/tvzhibo.txt"},
@@ -79,7 +79,7 @@
       {"key":"77韩剧","name":"🍟韩剧资源","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
       {"key":"无尽资源","name":"🍟无尽资源","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
       {"key":"789盘","name":"🔎789资源","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-      {"key":"影图","name":"🍟影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      {"key":"影图资源","name":"🍟影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
       {"key":"雨哥哥影视","name":"🍟雨哥资源","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1},
       {"key": "红牛资源","name": "🍟红牛资源","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/","searchable": 1,"quickSearch":1,"filterable":0},
       {"key": "飞速资源","name": "🍟飞速资源","type": 1,"api": "https://www.feisuzy.com/api.php/provide/vod/","searchable": 1,"quickSearch":1,"filterable":0},
